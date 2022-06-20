@@ -1,0 +1,10 @@
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\bin\Debug\BG-Odev3.exe.config
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\bin\Debug\BG-Odev3.exe
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\bin\Debug\BG-Odev3.pdb
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\obj\Debug\BG-Odev3.csprojAssemblyReference.cache
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\obj\Debug\BG_Odev3.frmOdev.resources
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\obj\Debug\BG_Odev3.Properties.Resources.resources
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\obj\Debug\BG-Odev3.csproj.GenerateResource.cache
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\obj\Debug\BG-Odev3.csproj.CoreCompileInputs.cache
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\obj\Debug\BG-Odev3.exe
+C:\Users\BUKET\source\repos\BG-Odev3\BG-Odev3\obj\Debug\BG-Odev3.pdb
